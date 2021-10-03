@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Whatsapp-app/static/css/main.3d1fa91c.chunk.css",
+    "main.js": "/React-Whatsapp-app/static/js/main.e6330f0e.chunk.js",
+    "main.js.map": "/React-Whatsapp-app/static/js/main.e6330f0e.chunk.js.map",
+    "runtime-main.js": "/React-Whatsapp-app/static/js/runtime-main.10efa519.js",
+    "runtime-main.js.map": "/React-Whatsapp-app/static/js/runtime-main.10efa519.js.map",
+    "static/js/2.f4dcaef7.chunk.js": "/React-Whatsapp-app/static/js/2.f4dcaef7.chunk.js",
+    "static/js/2.f4dcaef7.chunk.js.map": "/React-Whatsapp-app/static/js/2.f4dcaef7.chunk.js.map",
+    "index.html": "/React-Whatsapp-app/index.html",
+    "static/css/main.3d1fa91c.chunk.css.map": "/React-Whatsapp-app/static/css/main.3d1fa91c.chunk.css.map",
+    "static/js/2.f4dcaef7.chunk.js.LICENSE.txt": "/React-Whatsapp-app/static/js/2.f4dcaef7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10efa519.js",
+    "static/js/2.f4dcaef7.chunk.js",
+    "static/css/main.3d1fa91c.chunk.css",
+    "static/js/main.e6330f0e.chunk.js"
+  ]
+}
